@@ -7,5 +7,4 @@ For training our model, we have used the following methodology -
  3. Passing the L component (grayscale image) as input and training to get approximate A and B component.
 
 NN architecture used in this project -
-![NN architecture]
-(https://github.com/VatsalBabel/Image-colorization-using-CNNS/blob/master/images/model.png)
+![NN architecture](/images/model.png)
